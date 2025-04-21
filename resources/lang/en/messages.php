@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'welcome' => 'Welcome to our website!',
+    'downloads' => 'Downloads',
+    'dashboard' => 'Dashboard',
+    'home' => 'Home',
+    'login' => 'Login',
+    'register' => 'Register',
+    'logout' => 'Logout',
+    'admin_panel' => 'Admin Panel',
+    'manage_pdfs' => 'Manage PDFs',
+    'search_books' => 'Search for a book...',
+    'search' => 'Search',
+    'language' => 'Language',
+    'english' => 'English',
+    'arabic' => 'Arabic',
+    'no_results' => 'No results found',
+    'buy_now' => 'Buy Now',
+    'download' => 'Download',
+    'total_users' => 'Total Users',
+    'total_pdfs' => 'Total PDFs',
+    'total_downloads' => 'Total Downloads',
+    'most_downloaded' => 'Most Downloaded',
+    'recent_activity' => 'Recent Activity',
+];

@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'welcome' => 'مرحبا بك في موقعنا!',
+    'downloads' => 'التحميلات',
+    'dashboard' => 'لوحة التحكم',
+    'home' => 'الصفحة الرئيسية',
+    'login' => 'تسجيل الدخول',
+    'register' => 'إنشاء حساب',
+    'logout' => 'تسجيل الخروج',
+    'admin_panel' => 'لوحة الإدارة',
+    'manage_pdfs' => 'إدارة ملفات PDF',
+    'search_books' => 'ابحث عن كتاب...',
+    'search' => 'بحث',
+    'language' => 'اللغة',
+    'english' => 'الإنجليزية',
+    'arabic' => 'العربية',
+    'no_results' => 'لم يتم العثور على نتائج',
+    'buy_now' => 'اشترِ الآن',
+    'download' => 'تحميل',
+    'total_users' => 'عدد المستخدمين',
+    'total_pdfs' => 'عدد ملفات PDF',
+    'total_downloads' => 'عدد التحميلات',
+    'most_downloaded' => 'الأكثر تحميلاً',
+    'recent_activity' => 'النشاط الأخير',
+];
